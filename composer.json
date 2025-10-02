@@ -1,0 +1,11 @@
+{
+    "name": "khaicq/base-php",
+    "require": {
+        "smarty/smarty": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "NewitDev\\BasePhp\\": "data/class/"
+        }
+    }
+}
