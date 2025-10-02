@@ -5,7 +5,7 @@
     },
     "autoload": {
         "psr-4": {
-            "NewitDev\\BasePhp\\": "data/class/"
+            "App\\": "data/class/"
         }
     }
 }
